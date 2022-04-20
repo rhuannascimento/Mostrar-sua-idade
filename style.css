@@ -3,13 +3,23 @@ body{
     font: normal 15pt arial;
 }
 
-#branco{
+.branco{
     color: azure;
     text-align: center;
 }
 
 footer{
     font-style: italic;
+}
+div{
+    text-align: center;
+    padding: 5px;
+}
+
+img{
+    height: 250px;
+    width: 250px;
+    border-radius: 250px;
 }
 
 section{
